@@ -47,6 +47,7 @@ public class Hipoteca extends AppCompatActivity {
     public void onClacular(View view) {
         //DecimalFormat dosdec = new DecimalFormat("#########.00");
 
+
         EditText par1 = (EditText)findViewById(R.id.preuInmoble);
         EditText par2 = (EditText)findViewById(R.id.estalvis);
         EditText par3 = (EditText)findViewById(R.id.plaç);
